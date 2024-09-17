@@ -1,12 +1,7 @@
 #include <iostream>
-/*second time
-*/
-
-int main(void)
+//hello world
+int main()
 {
-   
-    using namespace std;
-    
-    cout << "hello, world!" << endl;
+    std::cout << "hello, world!" << std::endl;
     return 0;
 }
